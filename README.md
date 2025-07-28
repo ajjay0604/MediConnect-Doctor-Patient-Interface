@@ -12,12 +12,11 @@ This repository contains only the **React-based interface** for the MediConnect 
 
 ### Home Page
 
-<img width="1574" height="1784" alt="image" src="https://github.com/user-attachments/assets/783c0b76-66f7-4aa5-a7a1-2fc16b551be8" />
-
+<img width="1574" height="1784" alt="image" src="https://github.com/user-attachments/assets/f6a2ab58-74bc-45e1-9c8e-16be569727fe" />
 
 ### 👤 Patient Dashboard
 
-<img width="1278" height="1780" alt="image" src="https://github.com/user-attachments/assets/b6ec7442-9d73-414c-aea1-be4340bbac8b" />
+<img width="1222" height="1696" alt="image" src="https://github.com/user-attachments/assets/7687cbb8-7bdb-4b61-ace6-3abacfa684f8" />
 
 - View personal information
 - Track recent glucose readings
@@ -27,11 +26,11 @@ This repository contains only the **React-based interface** for the MediConnect 
 ### 🩺 Doctor Dashboard
 - View all registered patients
   
-  <img width="1690" height="678" alt="image" src="https://github.com/user-attachments/assets/893f8c23-ee8a-4312-baec-549e5603e1f9" />
+  <img width="1690" height="678" alt="image" src="https://github.com/user-attachments/assets/22e840c0-5399-451c-85fe-2f70ed538c9d" />
 
 - Click on any patient to view detailed reports
   
-  <img width="1610" height="1716" alt="image" src="https://github.com/user-attachments/assets/30dbe19c-a0c2-43cc-be8b-d628fbb2c12f" />
+  <img width="1610" height="1716" alt="image" src="https://github.com/user-attachments/assets/bb514c1b-888c-4e4f-85e9-ec2211c551c3" />
 
 - Track real-time glucose history and trends
 - Refresh data on-demand
@@ -42,11 +41,11 @@ This repository contains only the **React-based interface** for the MediConnect 
 
   Patient's Login Portal :
 
-  <img width="1570" height="708" alt="image" src="https://github.com/user-attachments/assets/1c6308a9-6818-4d49-9170-587c584d17e1" />
+  <img width="1570" height="708" alt="image" src="https://github.com/user-attachments/assets/be540904-e2b6-4605-92d6-a83edd9156ae" />
   
   Doctor's Login Portal :
 
-  <img width="1568" height="724" alt="image" src="https://github.com/user-attachments/assets/0a7cb021-b892-4365-8c58-3415340e870a" />
+  <img width="1568" height="724" alt="image" src="https://github.com/user-attachments/assets/a491d1e0-720e-4f55-acca-1f1ca268dbd5" />
 
 - Secure session-based access
 

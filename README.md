@@ -10,7 +10,7 @@ This repository contains only the **React-based interface** for the MediConnect 
 
 ## ✨ Key Features
 
-### Home Page
+### 💻 Home Page
 
 <img width="1574" height="1784" alt="image" src="https://github.com/user-attachments/assets/f6a2ab58-74bc-45e1-9c8e-16be569727fe" />
 

@@ -71,7 +71,7 @@ This repository contains only the **React-based interface** for the MediConnect 
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/mediconnect-interface.git
-cd mediconnect-interface
+git clone https://github.com/yourusername/MediConnect-Doctor-Patient-Interface.git
+cd MediConnect-Doctor-Patient-Interface
 npm install
 npm start
